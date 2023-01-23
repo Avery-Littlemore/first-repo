@@ -6,3 +6,6 @@ Practicing important steps for git diff
 4. Stage changes for commit
 5. Commit changes to version history
 6. Review changes with git log
+
+Table of contents:
+-examplefile.txt
